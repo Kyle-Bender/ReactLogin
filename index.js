@@ -32,13 +32,10 @@ ReactDOM.render(
                         <label for="remember-me">Remember Me?</label>
                     </div>
                     
+                    <button class="signin-btn">LOGIN</button>
+
                     <div class="forgot-password">
                         <a href="#">Forgot Password?</a>
-                    </div>
-
-                    <button class="signin-btn">LOGIN</button>
-                    <div class="sign-up">
-                        <a href="#"> New to Black Matrix? Sign up here.</a>
                     </div>
 
                 </div>

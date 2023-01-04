@@ -1,15 +1,16 @@
 body {
-    background-color: plum ;
+    background-color: #92a8d1;
 }
 
 .login-div {
     margin: 100px auto ;
-    width: 350px;
+    width: 475px;
     background-color: white;
-    padding: 60px;
+    padding: 50px;
+    border-radius: 30px;
 }
 .logo {
-    background-color: plum;
+    background-color: none;
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -21,7 +22,7 @@ body {
 }
 .title, .sub-title {
     text-align: center;
-    color: #505050;
+    color: black;
 }
 .title {
     font-weight: bolder;
@@ -36,6 +37,7 @@ body {
     margin-top: 30px;
 }
 .form input{
+    color: black;
     font-size: 18px;
     padding: 10px 20px 10px 5px;
     border: none;
@@ -43,6 +45,7 @@ body {
     background: none;
 }
 .username, .password {
+    color: black;
     display: block;
     border-radius: 30px;
     border: 1px solid rgba(0, 0, 0, 0.2);
