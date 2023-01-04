@@ -13,8 +13,8 @@ ReactDOM.render(
                     <img src="logo.jpg" alt="" width="120" />
                 </div>
 
-                <div class="title">Black Matrix</div>
-                <div class="sub-title">Technology & Design</div>
+                <div class="title">Welcome</div>
+                <div class="sub-title">Midtown Moving & Storage LLC</div>
 
                 <div class="form">
 
