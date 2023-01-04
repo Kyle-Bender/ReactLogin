@@ -48,7 +48,35 @@ body {
     color: black;
     display: block;
     border-radius: 30px;
-    border: 1px solid rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
     padding: 10px;
     margin: 10px 0;
+}
+.options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 0px;
+    margin-bottom: 30px;
+}
+button.signin-btn {
+    width: 100%;
+    padding: 12px 10px;
+    border: none;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+button.signin-btn:hover{
+    box-shadow: 2px 2px 5px #555;
+    background-color: #92a8d1;
+}
+.sign-up{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
 }

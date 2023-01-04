@@ -27,16 +27,20 @@ ReactDOM.render(
                     </div>
 
                     <div class="options">
-                        <div class="remember-me"></div>
-                        <input id="remember-me" type="checkbox" />
-                        <label for="remember-me">Remember Me?</label>
-                    </div>
+                        <div class="remember-me">
+                            <input id="remember-me" type="checkbox" />
+                            <label for="remember-me">Remember Me?</label>
+                        </div>
+
+                        <div class="forgot-password">
+                            <a href="#">Forgot Password?</a>
+                        </div>
+                    </div>        
                     
                     <button class="signin-btn">LOGIN</button>
-
-                    <div class="forgot-password">
-                        <a href="#">Forgot Password?</a>
-                    </div>
+                        <div class="sign-up">
+                            <a href="#">New to Midtown Moving? Contact help here!</a>
+                        </div>
 
                 </div>
 
